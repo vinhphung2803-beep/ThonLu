@@ -3,7 +3,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH1_SC01_DLG001",
 "path": "CHAPTERS[0].title",
-"text": "Hạt Mầm Nhỏ"
+"text": "Sự Phát Triển Của Một Con SV"
 },
 {
 "id": "CH1_SC01_DLG002",
@@ -13,21 +13,21 @@ const NARRATIVE_DATA = [
 {
 "id": "CH1_SC01_DLG003",
 "path": "CHAPTERS[0].intro[0]",
-"text": "Câu chuyện nào cũng bắt đầu từ những điều nhỏ bé.",
+"text": "Mẹ Mày Béo",
 "list": "CHAPTERS[0].intro",
 "idx": 0
 },
 {
 "id": "CH1_SC01_DLG004",
 "path": "CHAPTERS[0].intro[1]",
-"text": "Lần bò đầu tiên. Cú nhảy đầu tiên.\nLần đầu tò mò nhìn ngắm thế giới.",
+"text": "CMSN Tuổi 19. Game này nói về cái cuộc đời của mày :P.",
 "list": "CHAPTERS[0].intro",
 "idx": 1
 },
 {
 "id": "CH1_SC01_DLG005",
 "path": "CHAPTERS[0].intro[2]",
-"text": "Hãy nhặt sao, trái tim và máy bay giấy\ntrên đường đi. Sẵn sàng chưa?",
+"text": "Thu Thập Các Vật Phẩm Để Trở Nên Béo Phì.",
 "list": "CHAPTERS[0].intro",
 "idx": 2
 },
@@ -66,14 +66,14 @@ const NARRATIVE_DATA = [
 {
 "id": "CH1_SC03_DLG001",
 "path": "CHAPTERS[0].complete[0]",
-"text": "Những điều nhỏ bé cộng lại thành điều lớn lao.",
+"text": "Xin chúc mừng một con súc vật đã lớn lên thành công.",
 "list": "CHAPTERS[0].complete",
 "idx": 0
 },
 {
 "id": "CH1_SC03_DLG002",
 "path": "CHAPTERS[0].complete[1]",
-"text": "Bạn đã học bò, nhảy và khám phá.",
+"text": "Bắt đầu hành trình ăn tàn phá hại của mày đi.",
 "list": "CHAPTERS[0].complete",
 "idx": 1
 },
@@ -94,17 +94,17 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC01_DLG001",
 "path": "CH2_TEXT.chapterTitle",
-"text": "Trở Thành Chính Mình"
+"text": "Cách để trở thành Hoàng Vũ Anh Thư"
 },
 {
 "id": "CH2_SC01_DLG002",
 "path": "CH2_TEXT.chapterAges",
-"text": ""
+"text": "Dù ăn hại là rõ nhưng mày vẫn có điểm sáng đấy Thư ạ."
 },
 {
 "id": "CH2_SC01_DLG003",
 "path": "CH2_TEXT.intro[0]",
-"text": "",
+"text": "Đây là những thứ tao cho là đã làm nên con người mày.",
 "list": "CH2_TEXT.intro",
 "idx": 0
 },
@@ -132,7 +132,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC02_DLG001",
 "path": "CH2_TEXT.growthLabel.child",
-"text": ""
+"text": "Vãi lồn, Nhìn kìa, sự ăn hại của mày đã vươn lên một level mới."
 },
 {
 "id": "CH2_SC02_DLG002",
@@ -231,21 +231,21 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC03_DLG001",
 "path": "CH2_TEXT.afterGame.artist[0]",
-"text": "",
+"text": "mày vẽ đẹp đấy.",
 "list": "CH2_TEXT.afterGame.artist",
 "idx": 0
 },
 {
 "id": "CH2_SC03_DLG002",
 "path": "CH2_TEXT.afterGame.artist[1]",
-"text": "",
+"text": "tao thích cách mày sử dụng màu sắc. Trí tưởng tượng của mày nữa.",
 "list": "CH2_TEXT.afterGame.artist",
 "idx": 1
 },
 {
 "id": "CH2_SC03_DLG003",
 "path": "CH2_TEXT.afterGame.artist[2]",
-"text": "",
+"text": "Nhưng mà mày sẽ không bao giờ vẽ đẹp hơn tao đâu :D",
 "list": "CH2_TEXT.afterGame.artist",
 "idx": 2
 },
@@ -259,21 +259,21 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC03_DLG005",
 "path": "CH2_TEXT.afterGame.language[0]",
-"text": "",
+"text": "Tốt lắm em.",
 "list": "CH2_TEXT.afterGame.language",
 "idx": 0
 },
 {
 "id": "CH2_SC03_DLG006",
 "path": "CH2_TEXT.afterGame.language[1]",
-"text": "",
+"text": "Thầy Tác tự hào về mày.",
 "list": "CH2_TEXT.afterGame.language",
 "idx": 1
 },
 {
 "id": "CH2_SC03_DLG007",
 "path": "CH2_TEXT.afterGame.language[2]",
-"text": "",
+"text": "Đùa thôi, làm sao mày được thầy tác coi trọng giống như cách bà vươn đề cao tao được ('')>",
 "list": "CH2_TEXT.afterGame.language",
 "idx": 2
 },
@@ -287,21 +287,21 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC03_DLG009",
 "path": "CH2_TEXT.afterGame.friends[0]",
-"text": "",
+"text": "Phần game này khúm núm vãi lồn.",
 "list": "CH2_TEXT.afterGame.friends",
 "idx": 0
 },
 {
 "id": "CH2_SC03_DLG010",
 "path": "CH2_TEXT.afterGame.friends[1]",
-"text": "",
+"text": "Nhưng mày vừa có một thằng bạn tốt nhất trong cuộc đời mày đấy.",
 "list": "CH2_TEXT.afterGame.friends",
 "idx": 1
 },
 {
 "id": "CH2_SC03_DLG011",
 "path": "CH2_TEXT.afterGame.friends[2]",
-"text": "",
+"text": "heh",
 "list": "CH2_TEXT.afterGame.friends",
 "idx": 2
 },
@@ -348,28 +348,28 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC04_DLG002",
 "path": "CH2_TEXT.battle.intro[0]",
-"text": "",
+"text": "đây là một người bạn rất quan trọng đối với mày ('')>",
 "list": "CH2_TEXT.battle.intro",
 "idx": 0
 },
 {
 "id": "CH2_SC04_DLG003",
 "path": "CH2_TEXT.battle.intro[1]",
-"text": "",
+"text": "Chịu khó làm thân với nó lúc nó còn nghèo đi",
 "list": "CH2_TEXT.battle.intro",
 "idx": 1
 },
 {
 "id": "CH2_SC04_DLG004",
 "path": "CH2_TEXT.battle.intro[2]",
-"text": "",
+"text": "Sau này nó giàu",
 "list": "CH2_TEXT.battle.intro",
 "idx": 2
 },
 {
 "id": "CH2_SC04_DLG005",
 "path": "CH2_TEXT.battle.intro[3]",
-"text": "",
+"text": "Nó xóa số mày luôn.",
 "list": "CH2_TEXT.battle.intro",
 "idx": 3
 },
@@ -383,14 +383,14 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC04_DLG007",
 "path": "CH2_TEXT.battle.victory[1]",
-"text": "",
+"text": "Chúc mừng em.",
 "list": "CH2_TEXT.battle.victory",
 "idx": 1
 },
 {
 "id": "CH2_SC04_DLG008",
 "path": "CH2_TEXT.battle.victory[2]",
-"text": "",
+"text": "Mày vừa có cơ hội đánh thắng tao đấy.",
 "list": "CH2_TEXT.battle.victory",
 "idx": 2
 },
@@ -404,7 +404,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC04_DLG010",
 "path": "CH2_TEXT.battle.defeat[0]",
-"text": "",
+"text": "GÀ",
 "list": "CH2_TEXT.battle.defeat",
 "idx": 0
 },
@@ -432,7 +432,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_SIT_ph_art_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].situation",
-"text": "[mẫu] Bạn thấy một cuốn sổ vẽ ló ra từ chiếc cặp."
+"text": "Thằng Này Nhìn wibu vl. Bạn thấy nó vẽ vời trong giờ học."
 },
 {
 "id": "CH2_SC05_PRM_ph_art_1",
@@ -442,22 +442,22 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_art_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].choices[id=a].text",
-"text": "Công thức nấu ăn yêu thích của bạn là gì?"
+"text": "Mẹ Mày Béo."
 },
 {
 "id": "CH2_SC05_CHO_ph_art_1_b",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].choices[id=b].text",
-"text": "Bạn có vẽ không? Cho mình xem với?"
+"text": "Anh Vinh ĐZ cho em xem tranh anh vẽ đi."
 },
 {
 "id": "CH2_SC05_CHO_ph_art_1_c",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].choices[id=c].text",
-"text": "Bạn có chơi bóng đá không?"
+"text": "Bố mày gay."
 },
 {
 "id": "CH2_SC05_CHO_ph_art_1_d",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].choices[id=d].text",
-"text": "Bạn có thích đi tàu hỏa đường dài không?"
+"text": "Cho tao 5 lít."
 },
 {
 "id": "CH2_SC05_FBC_ph_art_1",
@@ -467,12 +467,12 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_FBW_ph_art_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_art_1].feedback.wrong",
-"text": ""
+"text": "Gà."
 },
 {
 "id": "CH2_SC05_SIT_ph_games_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_games_1].situation",
-"text": "[mẫu] Chiếc máy chơi game cầm tay kêu bíp trên bàn."
+"text": "Thằng này nghiện game vcl."
 },
 {
 "id": "CH2_SC05_PRM_ph_games_1",
@@ -482,7 +482,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_games_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_games_1].choices[id=a].text",
-"text": "Bạn đang chơi game nào vậy?"
+"text": "lq k?"
 },
 {
 "id": "CH2_SC05_CHO_ph_games_1_b",
@@ -507,12 +507,12 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_FBW_ph_games_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_games_1].feedback.wrong",
-"text": ""
+"text": "GÀ."
 },
 {
 "id": "CH2_SC05_SIT_ph_music_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_music_1].situation",
-"text": "[mẫu] Tiếng nhạc nhẹ nhàng rỉ ra từ đôi tai nghe."
+"text": "Bạn Nghe Thấy Một Bài Hát Của Ngọt Trong Điện Thoại Nó."
 },
 {
 "id": "CH2_SC05_PRM_ph_music_1",
@@ -532,7 +532,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_music_1_c",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_music_1].choices[id=c].text",
-"text": "Nghe hay quá! Bạn đang nghe gì vậy?"
+"text": "ÔI ANH THẮNG NGỌT!!!!!!!!!!"
 },
 {
 "id": "CH2_SC05_CHO_ph_music_1_d",
@@ -547,12 +547,12 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_FBW_ph_music_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_music_1].feedback.wrong",
-"text": ""
+"text": "NON"
 },
 {
 "id": "CH2_SC05_SIT_ph_pets_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_pets_1].situation",
-"text": "[mẫu] Hình nền điện thoại có một bé thú bông xù."
+"text": "nó đố bạn nó thích chó hay mèo hơn"
 },
 {
 "id": "CH2_SC05_PRM_ph_pets_1",
@@ -562,7 +562,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_pets_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_pets_1].choices[id=a].text",
-"text": "Ôi, đó là chó hay mèo của bạn vậy?"
+"text": "Chó"
 },
 {
 "id": "CH2_SC05_CHO_ph_pets_1_b",
@@ -572,7 +572,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_pets_1_c",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_pets_1].choices[id=c].text",
-"text": "Đó là nhân vật trong game à?"
+"text": "Mèo"
 },
 {
 "id": "CH2_SC05_FBC_ph_pets_1",
@@ -602,7 +602,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_weekend_1_b",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_weekend_1].choices[id=b].text",
-"text": "Mình cùng đi vẽ ở công viên nhé!"
+"text": "vẽ ông Tác ko?"
 },
 {
 "id": "CH2_SC05_CHO_ph_weekend_1_c",
@@ -617,7 +617,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_FBC_ph_weekend_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_weekend_1].feedback.correct",
-"text": ""
+"text": "Tao vẽ ông tác đẹp vl, nhớ không?"
 },
 {
 "id": "CH2_SC05_FBW_ph_weekend_1",
@@ -637,37 +637,37 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_gift_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].choices[id=a].text",
-"text": "Một thẻ quà tặng game nhỏ"
+"text": "5 lít."
 },
 {
 "id": "CH2_SC05_CHO_ph_gift_1_b",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].choices[id=b].text",
-"text": "Một chiếc tạp dề nấu ăn"
+"text": "đéo tặng"
 },
 {
 "id": "CH2_SC05_CHO_ph_gift_1_c",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].choices[id=c].text",
-"text": "Một chiếc băng thấm mồ hôi"
+"text": "đéo tặng"
 },
 {
 "id": "CH2_SC05_CHO_ph_gift_1_d",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].choices[id=d].text",
-"text": "Một cây thước mới"
+"text": "đéo tặng"
 },
 {
 "id": "CH2_SC05_FBC_ph_gift_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].feedback.correct",
-"text": ""
+"text": "NGONNN"
 },
 {
 "id": "CH2_SC05_FBW_ph_gift_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_gift_1].feedback.wrong",
-"text": ""
+"text": "Djt me may"
 },
 {
 "id": "CH2_SC05_SIT_ph_rainy_1",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_rainy_1].situation",
-"text": "[mẫu] Chiều mưa và bạn bị kẹt trong nhà."
+"text": "Trong tiết học chán vãi lồn đéo biết làm gì."
 },
 {
 "id": "CH2_SC05_PRM_ph_rainy_1",
@@ -677,7 +677,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_rainy_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_rainy_1].choices[id=a].text",
-"text": "Mình cùng làm một danh sách nhạc nhé."
+"text": "lq k?"
 },
 {
 "id": "CH2_SC05_CHO_ph_rainy_1_b",
@@ -732,7 +732,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_walk_1_d",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_walk_1].choices[id=d].text",
-"text": "Xe buýt nào đi hướng này vậy?"
+"text": "mẹ mày béo."
 },
 {
 "id": "CH2_SC05_FBC_ph_walk_1",
@@ -757,17 +757,17 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC05_CHO_ph_free_1_a",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_free_1].choices[id=a].text",
-"text": "Nấu bữa trưa bất ngờ."
+"text": "ăn hại."
 },
 {
 "id": "CH2_SC05_CHO_ph_free_1_b",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_free_1].choices[id=b].text",
-"text": "Chơi một game co-op."
+"text": "lq k?"
 },
 {
 "id": "CH2_SC05_CHO_ph_free_1_c",
 "path": "SOCIAL_BATTLE_QUESTIONS[id=ph_free_1].choices[id=c].text",
-"text": "Vẽ nhau thành nhân vật hoạt hình."
+"text": "Vẽ vời wibu ăn hại."
 },
 {
 "id": "CH2_SC05_CHO_ph_free_1_d",
@@ -827,14 +827,14 @@ const NARRATIVE_DATA = [
 {
 "id": "CH2_SC06_DLG001",
 "path": "CH2_TEXT.finale[0]",
-"text": "",
+"text": "Chúc mừng mày đã vượt qua tuổi trẻ.",
 "list": "CH2_TEXT.finale",
 "idx": 0
 },
 {
 "id": "CH2_SC06_DLG002",
 "path": "CH2_TEXT.finale[1]",
-"text": "",
+"text": "3 năm nữa thôi mày sẽ phải đi làm đấy thg ngu.",
 "list": "CH2_TEXT.finale",
 "idx": 1
 },
@@ -860,7 +860,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC01_DLG002",
 "path": "CH3_TEXT.chapterAges",
-"text": ""
+"text": "SNVV NGHEN"
 },
 {
 "id": "CH3_SC01_DLG003",
@@ -898,7 +898,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC02_DLG002",
 "path": "CH3_TEXT.afterGrowth.young[0]",
-"text": "",
+"text": "Lên đại học rồi đấy.",
 "list": "CH3_TEXT.afterGrowth.young",
 "idx": 0
 },
@@ -959,7 +959,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC03_DLG001",
 "path": "CH3_TEXT.boss.intro[0]",
-"text": "",
+"text": "Bước Sang Tuổi Mới Thôi.",
 "list": "CH3_TEXT.boss.intro",
 "idx": 0
 },
@@ -987,7 +987,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC03_DLG005",
 "path": "CH3_TEXT.boss.phase2[0]",
-"text": "",
+"text": "Bất ngờ chưa thằng lồn.",
 "list": "CH3_TEXT.boss.phase2",
 "idx": 0
 },
@@ -1071,7 +1071,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC03_DLG017",
 "path": "CH3_TEXT.boss.victory[0]",
-"text": "",
+"text": "Chúc mừng mày đã lên 19 tuổi.",
 "list": "CH3_TEXT.boss.victory",
 "idx": 0
 },
@@ -1099,7 +1099,7 @@ const NARRATIVE_DATA = [
 {
 "id": "CH3_SC03_DLG021",
 "path": "CH3_TEXT.boss.defeat[0]",
-"text": "",
+"text": "NGU",
 "list": "CH3_TEXT.boss.defeat",
 "idx": 0
 },
@@ -1155,27 +1155,27 @@ const NARRATIVE_DATA = [
 {
 "id": "ENDING_SC01_DLG001",
 "path": "ENDING.line1",
-"text": "Và tất cả những điều đó làm nên bạn, CHÍNH BẠN."
+"text": "Chúc mừng sinh nhật muộn nhé. Mày là một thằng bạn tốt."
 },
 {
 "id": "ENDING_SC01_DLG002",
 "path": "ENDING.line2",
-"text": "Hành trình vẫn còn tiếp tục..."
+"text": "tao cũng muốn hoàn thành xong sớm để món quà này có nhiều ý nghĩa hơn."
 },
 {
 "id": "ENDING_SC01_DLG003",
 "path": "ENDING.line3",
-"text": "Chúc mừng sinh nhật tuổi 19!"
+"text": "Dù sao thì, CMSN 19 tuổi!!!"
 },
 {
 "id": "ENDING_SC02_DLG001",
 "path": "LETTER_FROM",
-"text": "Từ: (tên của bạn)"
+"text": "Từ Thằng Làm Game."
 },
 {
 "id": "ENDING_SC02_DLG002",
 "path": "LETTER_PAGES[0]",
-"text": "Gửi (tên người nhận),\n\n(Hãy viết lời của riêng bạn ở đây.)\n(Mỗi trang nên ngắn gọn.)",
+"text": "Chúc mày tuổi mới giữ gìn sức khỏe nhé. Năm sau tao sẽ làm một sản phẩm tốt hơn thế này nếu mày muốn ^^.",
 "list": "LETTER_PAGES",
 "idx": 0
 },
